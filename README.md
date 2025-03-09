@@ -5,3 +5,4 @@ All about File formats in Bioinformatics
 [SAM](https://github.com/snijeshvp/bioinformatics-file-formats/blob/main/files/SAM.md)<br>
 [BAM](https://github.com/snijeshvp/bioinformatics-file-formats/blob/main/files/BAM.md)<br>
 [VCF](https://github.com/snijeshvp/bioinformatics-file-formats/blob/main/files/vcf.md)<br>
+[CRAM](https://github.com/snijeshvp/bioinformatics-file-formats/blob/main/files/cram.md)<br>
